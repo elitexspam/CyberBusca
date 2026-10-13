@@ -1,4 +1,2 @@
-Pillow
-pyautogui
-psutil
-ffmpeg
+colorama
+requests
