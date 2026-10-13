@@ -41,7 +41,7 @@ def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def banner():
-    print(Fore.CYAN + Style.BRIGHT + rr"""
+    print("""Fore.CYAN + Style.BRIGHT + rr""")
   _________コイル__________ _________                                  
   \_   ___ \_   _  \______   \\______   \__ __  ______ ____ _____   
   /    \  \//  /_\  \|    |  _/ |    |  _/  |  \/  ___// ___\\__  \  
